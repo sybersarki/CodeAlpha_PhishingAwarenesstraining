@@ -11,7 +11,7 @@
 An interactive, web-based Phishing Awareness Training module built as part of the CodeAlpha Cybersecurity Internship. This training educates users on how to identify, avoid, and report phishing attacks through real-world examples, visual demonstrations, and an interactive quiz.
 
 ## 🌐 Live Demo
-[View Live Training Module](https://sybersarki.github.io/CodeAlpha_PhishingAwarenesstraining)
+[View Live Training Module](https://sybersarki.github.io/CodeAlpha_PhishingAwarenesstraining/)
 
 ## 📚 Training Modules
 
